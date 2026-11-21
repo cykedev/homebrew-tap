@@ -1,6 +1,6 @@
 cask "seamerge" do
-  version "0.6.0"
-  sha256 "5ab099814e63ddb025f6c7bd89776ff45fff310a8b373a0cd0e367e3b171c17c"
+  version "0.7.0"
+  sha256 "30b14fbdcd3215313e8a47b2e38e8477ddc340f8ef154fcafb1f327d51f12552"
 
   url "https://github.com/cykedev/seamerge/releases/download/v#{version}/Seamerge-#{version}.zip"
   name "Seamerge"
